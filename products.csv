@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price
+1,Electronics Item 1,Electronics,62.91
+2,Electronics Item 2,Electronics,104.09
+3,Electronics Item 3,Electronics,341.49
+4,Electronics Item 4,Electronics,162.58
+5,Electronics Item 5,Electronics,204.71
+6,Electronics Item 6,Electronics,264.17
+7,Electronics Item 7,Electronics,80.12
+8,Electronics Item 8,Electronics,315.83
+9,Furniture Item 1,Furniture,478.37
+10,Furniture Item 2,Furniture,176.55
+11,Furniture Item 3,Furniture,365.53
+12,Furniture Item 4,Furniture,150.46
+13,Furniture Item 5,Furniture,380.23
+14,Furniture Item 6,Furniture,141.59
+15,Furniture Item 7,Furniture,484.08
+16,Furniture Item 8,Furniture,149.76
+17,Office Supplies Item 1,Office Supplies,17.54
+18,Office Supplies Item 2,Office Supplies,33.54
+19,Office Supplies Item 3,Office Supplies,52.28
+20,Office Supplies Item 4,Office Supplies,3.29
+21,Office Supplies Item 5,Office Supplies,46.83
+22,Office Supplies Item 6,Office Supplies,25.73
+23,Office Supplies Item 7,Office Supplies,49.39
+24,Office Supplies Item 8,Office Supplies,43.23
+25,Clothing Item 1,Clothing,49.26
+26,Clothing Item 2,Clothing,62.04
+27,Clothing Item 3,Clothing,53.88
+28,Clothing Item 4,Clothing,44.31
+29,Clothing Item 5,Clothing,72.9
+30,Clothing Item 6,Clothing,115.89
+31,Clothing Item 7,Clothing,115.05
+32,Clothing Item 8,Clothing,70.95
+33,Home & Kitchen Item 1,Home & Kitchen,22.2
+34,Home & Kitchen Item 2,Home & Kitchen,68.17
+35,Home & Kitchen Item 3,Home & Kitchen,116.28
+36,Home & Kitchen Item 4,Home & Kitchen,31.6
+37,Home & Kitchen Item 5,Home & Kitchen,101.18
+38,Home & Kitchen Item 6,Home & Kitchen,49.95
+39,Home & Kitchen Item 7,Home & Kitchen,105.09
+40,Home & Kitchen Item 8,Home & Kitchen,44.8
